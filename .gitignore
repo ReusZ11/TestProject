@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/UserSettings/EditorUserSettings.asset
+/Temp/UnityLockfile
+/UserSettings/Layouts/default-2021.dwlt
+/Temp/PropertyDatabase_2066312223
+/Temp/PropertyDatabase_1265138678
+/Temp
